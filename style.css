@@ -1,0 +1,11 @@
+#cal{
+    text-align: center;
+    color: brown;
+}
+#calculator{
+    background-color: aquamarine;
+    color: burlywood;
+    font-size: 20px;
+    cursor: pointer;
+    border:none
+}
